@@ -1,2 +1,22 @@
 # AI-ML-Football-Analyzing-System
 🎥⚽ Real-time football analysis using AI, YOLO, and computer vision.
+This repository contains an AI-powered computer vision system designed for advanced football match analysis using YOLO, OpenCV, and ByteTrack. It provides real-time detection, tracking, and tactical visualizations of players, referees, and the ball from football match footage.
+
+🔍 Key Features
+⚡ Real-Time Detection: Detect players, ball, and referees using YOLOv5/v8.
+
+🧠 Team Classification: Auto-assign players to teams based on jersey color using HSV & CNN.
+
+🚶 Trajectory & Speed Estimation: Estimate movement speed and track distance covered.
+
+🎥 Camera Calibration: Correct perspective and align pitch using homography.
+
+📊 Tactical Visualization:
+
+Radar views
+
+Voronoi diagrams
+
+Heatmaps
+
+☁️ Google Colab Compatible: Optimized for Roboflow models and cloud execution.
