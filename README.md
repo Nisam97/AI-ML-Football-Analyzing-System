@@ -7,14 +7,12 @@ This repository contains an AI-powered computer vision system designed for advan
 
 🧠 Team Classification: Auto-assign players to teams based on jersey color using HSV & CNN.
 
-🚶 Trajectory & Speed Estimation: Estimate movement speed and track distance covered.
-
 🎥 Camera Calibration: Correct perspective and align pitch using homography.
 
 📊 Tactical Visualization:
 
 Radar views
-
+![image alt](Screenshot 2025-03-10 104140.png)
 Voronoi diagrams
 
 Heatmaps
