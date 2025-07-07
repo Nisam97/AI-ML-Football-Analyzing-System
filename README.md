@@ -18,6 +18,8 @@ Radar views
 
 Voronoi diagrams
 
+![image alt](https://github.com/Nisam97/AI-ML-Football-Analyzing-System/blob/main/Screenshot%202025-03-10%20104202.png?raw=true)
+
 Heatmaps
 
 ☁️ Google Colab Compatible: Optimized for Roboflow models and cloud execution.
