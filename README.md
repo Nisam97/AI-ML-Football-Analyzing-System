@@ -22,4 +22,6 @@ Voronoi diagrams
 
 Heatmaps
 
+![image alt](https://github.com/Nisam97/AI-ML-Football-Analyzing-System/blob/main/Screenshot%202025-03-10%20104242.png?raw=true)
+
 ☁️ Google Colab Compatible: Optimized for Roboflow models and cloud execution.
